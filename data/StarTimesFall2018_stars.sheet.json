@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Cale Millen",
+    "school": "Mount Si",
+    "position": "QB",
+    "Height": "6-3",
+    "Weight": 190,
+    "year": "Sr.",
+    "blurb": "The Oregon-commit led the Wildcats to their first state tourney appearance since 2013. The KingCo 4A Crest Division co-MVP passed for 3,807 yards and 51 touchdowns with six interceptions. Also rushed for 453 yards.",
+    "image": "millen.jpg"
+  },
+  {
+    "name": "Jonny Barrett",
+    "school": "Mount Si",
+    "position": "WR",
+    "Height": "6-3",
+    "Weight": 180,
+    "year": "Sr. ",
+    "blurb": "The KingCo 4A Crest Division co-MVP was on the receiving end of the best passing tandem in school history. The two-time Star Times pick caught 95 passes for 1,568 yards with 28 touchdowns. ",
+    "image": "barrett.jpg"
+  },
+  {
+    "name": "Junior Alexander",
+    "school": "Kennedy Catholic",
+    "position": "WR",
+    "Height": "6-2",
+    "Weight": 170,
+    "year": "So.",
+    "blurb": "Alexander finished with 71 catches for 1,197 yards and 10 touchdowns, and he was selected to the North Puget Sound League Mountain Division’s first-team.",
+    "image": "alexander.jpg"
+  },
+  {
+    "name": "Dontae McMillan",
+    "school": "Chief Sealth",
+    "position": "RB",
+    "Height": "5-11",
+    "Weight": 185,
+    "year": "Sr.",
+    "blurb": "Led the Seahawks to their first championship in four decades as they won the Metro League Sound Division. Rushed for 1,875 yards on 186 carries with 24 touchdowns and was named the Sound Division’s MVP and a first-team linebacker.",
+    "image": "mcmillan.jpg"
+  },
+  {
+    "name": "Capassio Cherry",
+    "school": "Edmonds-Woodway",
+    "position": "RB",
+    "Height": "5-10",
+    "Weight": 190,
+    "year": "Sr. ",
+    "blurb": "Rushed for 2,021 yards on 247 carries with 24 touchdowns. Named to the WesCo 3A South Division first-team after tallying six games where he rushed for 200 yards or more.",
+    "image": "cherry.jpg"
+  },
+  {
+    "name": "Evan Mannes",
+    "school": "Glacier Peak",
+    "position": "TE",
+    "Height": "6-5",
+    "Weight": 210,
+    "year": "Sr.",
+    "blurb": "The playmaker had 43 catches for 649 yards and 10 touchdowns as the Grizzlies challenged for the WesCo 4A crown. Mannes was named to the all-league first team and received an honorable mention nod on defense.",
+    "image": "mannes.jpg"
+  },
+  {
+    "name": "Johnny Barthel",
+    "school": "Bellevue",
+    "position": "OL",
+    "Height": "6-5",
+    "Weight": 260,
+    "year": "Sr.",
+    "blurb": "Anchored a line that ran the wing-T offense for 4,196 yards and 52 touchdowns. The Wolverines are undefeated, and Barthel earned first-team KingCo honors.",
+    "image": "barthel.jpg"
+  },
+  {
+    "name": "Logan Bruce-Jones",
+    "school": "Lake Stevens",
+    "position": "OL",
+    "Height": "6-5",
+    "Weight": 295,
+    "year": "Jr.",
+    "blurb": "The WesCo 4A first-team pick helped his team win a sixth straight league championship and make the state semifinals. The Vikings offense averaged 487.6 yards per game and 49.9 points.",
+    "image": "bruce-jones.jpg"
+  },
+  {
+    "name": "Nathaniel Kalepo",
+    "school": "Rainier Beach",
+    "position": "OL",
+    "Height": "6-6",
+    "Weight": 329,
+    "year": "Sr.",
+    "blurb": "Finished his high-school career by helping the Vikings reach the Class 3A state tournament in back-to-back seasons. The Washington-commit was named to the Metro League Mountain Division’s first-team.",
+    "image": "kalepo.jpg"
+  },
+  {
+    "name": "Levi Rogers",
+    "school": "Woodinville",
+    "position": "OL",
+    "Height": "6-4",
+    "Weight": 276,
+    "year": "Jr.",
+    "blurb": "The Falcons defended their KingCo 4A title with Rogers throwing blocks to open up holes. Rogers was named the league’s lineman of the year.",
+    "image": "rogers.jpg"
+  },
+  {
+    "name": "Carter Cole",
+    "school": "Snohomish",
+    "position": "OL",
+    "Height": "6-3",
+    "Weight": 285,
+    "year": "Sr.",
+    "blurb": "The Panthers won the WesCo 3A championship and advanced to the state tournament for the first time since 2007. Cole captained a line that produced two 1,000-yard rushers. He was a first-team all-league pick.",
+    "image": "cole.jpg"
+  },
+  {
+    "name": "Blake Glessner",
+    "school": "Woodinville",
+    "position": "K",
+    "Height": "6-1",
+    "Weight": 155,
+    "year": "Jr.",
+    "blurb": "Made three field goals to help the Falcons win the KingCo 4A title game. Glessner hit 14 of 17 field goals with a long of 47. The first-team all-league pick was 36 for 36 on PATs.",
+    "image": "glessner.jpg"
+  },
+  {
+    "name": "Sam Adams II",
+    "school": "Eastside Catholic",
+    "position": "Athlete",
+    "Height": "6-2",
+    "Weight": 200,
+    "year": "Jr.",
+    "blurb": "The Metro League Mountain Division’s offensive MVP scored 17 rushing TDs, three receiving TDs and one off an interception and had 1,557 all-purpose yards. ",
+    "image": "adams.jpg"
+  },
+  {
+    "name": "Dylan Lewis",
+    "school": "Woodinville",
+    "position": "DL",
+    "Height": "6-4",
+    "Weight": 240,
+    "year": "Sr.",
+    "blurb": "The KingCo 4A Crown Division’s defensive MVP helped the Falcons hold opponents to an average of 13.5 points per game. Lewis totaled 69 tackles — 19 for a loss — and five sacks.",
+    "image": "lewis.jpg"
+  },
+  {
+    "name": "J.T. Tuimoloau",
+    "school": "Eastside Catholic",
+    "position": "DL",
+    "Height": "6-5",
+    "Weight": 277,
+    "year": "So.",
+    "blurb": "The five-star lineman earned Metro League Mountain Division’s co-defensive MVP honors. He had one fumble recovery, six sacks, 56 tackles and a blocked punt. ",
+    "image": "tuimoloau.jpg"
+  },
+  {
+    "name": "Alexx Schmidt",
+    "school": "O'Dea",
+    "position": "DL",
+    "Height": "6-2",
+    "Weight": 275,
+    "year": "Sr.",
+    "blurb": "Earned co-Metro League Mountain Division defensive lineman of the year honors. He accounted for 40 total tackles with two sacks and a blocked punt. ",
+    "image": "schmidt.jpg"
+  },
+  {
+    "name": "Zach Kennedy",
+    "school": "Eastlake",
+    "position": "DL",
+    "Height": "6-6",
+    "Weight": 245,
+    "year": "Sr.",
+    "blurb": "The KingCo 4A Crest Division’s lineman of the year helped the Wolves qualify for the state tournament. He had six sacks during regular-season play and helped limit opponents to an average of 107.9 rushing yards.",
+    "image": "kennedy.jpg"
+  },
+  {
+    "name": "Orin Patu",
+    "school": "Rainier Beach",
+    "position": "LB",
+    "Height": "6-4",
+    "Weight": 200,
+    "year": "Sr.",
+    "blurb": "The Cal-commit played just one season for the Vikings but was instrumental in returning the team to the Class 3A state tournament. Was named the Metro League Mountain Division’s co-defensive lineman of the year.",
+    "image": "patu.jpg"
+  },
+  {
+    "name": "Sav'ell Smalls",
+    "school": "Garfield",
+    "position": "LB",
+    "Height": "6-4",
+    "Weight": 235,
+    "year": "Jr.",
+    "blurb": "He was hampered by injuries, but he still was honored with a second Metro League Mountain Division co-defensive MVP award. The five-star recruit averaged eight tackles per game, had 21 tackles for a loss and seven sacks.",
+    "image": "smalls.jpg"
+  },
+  {
+    "name": "Kameron McKee",
+    "school": "Enumclaw",
+    "position": "LB",
+    "Height": "6-2",
+    "Weight": 200,
+    "year": "Sr.",
+    "blurb": "Led the North Puget Sound League in tackles and was named the Mountain Division’s linebacker of the year. Had 87 solo tackles — 22 for a loss — with six sacks. Also had four rushing touchdowns.",
+    "image": "mckee.jpg"
+  },
+  {
+    "name": "Ruperake Fuavai",
+    "school": "O'Dea",
+    "position": "LB",
+    "Height": "6-2",
+    "Weight": 220,
+    "year": "Sr.",
+    "blurb": "The Metro League Mountain Division’s first-team pick was disruptive on defense, totaling 83 tackles, forcing a fumble and collecting a sack. ",
+    "image": "fuavai.jpg"
+  },
+  {
+    "name": "Kasen Kinchen",
+    "school": "Lake Stevens",
+    "position": "DB",
+    "Height": "5-11",
+    "Weight": 165,
+    "year": "Jr. ",
+    "blurb": "The WesCo 4A first-team honoree had seven interceptions, returning one 65 yards for a touchdown. Also had 43 tackles to help the Vikings win a sixth straight conference championship.",
+    "image": "kinchen.jpg"
+  },
+  {
+    "name": "Mishael Powell",
+    "school": "O'Dea",
+    "position": "DB",
+    "Height": "6-1",
+    "Weight": 185,
+    "year": "Sr.",
+    "blurb": "A standout within a strong defense, picked off five passes and blocked one punt. The Metro League Mountain Division’s first-team pick totaled 50 tackles.",
+    "image": "powell.jpg"
+  },
+  {
+    "name": "Ayden Hector",
+    "school": "Eastside Catholic",
+    "position": "DB",
+    "Height": "6-1",
+    "Weight": 187,
+    "year": "Jr.",
+    "blurb": "The Metro League Mountain Division’s first-team selection is a terror in opponent’ backfield. He scored three touchdowns on interception returns, blocked four punts and one field goal and collected two sacks this season.",
+    "image": "hector.jpg"
+  },
+  {
+    "name": "Jake Wright",
+    "school": "Liberty",
+    "position": "DB",
+    "Height": "5-11",
+    "Weight": 190,
+    "year": "Sr.",
+    "blurb": "Named KingCo 2A/3A offensive co-MVP and first-team at safety. Helped the Patriots reach the Class 2A state semifinals by totaling 33 tackles with two sacks and two interceptions. Also scored 10 rushing TDs.",
+    "image": "wright.jpg"
+  },
+  {
+    "name": "Joey Ryan",
+    "school": "Lake Washington",
+    "position": "P ",
+    "Height": "6-0",
+    "Weight": 180,
+    "year": "Sr. ",
+    "blurb": "Kangaroos made their first Class 3A state tournament appearance since 2003 despite an 0-6 start. Ryan averaged 37.3 yards per punt, amassing 1,718 total yards on 46 punts. Was also 15 for 15 on PATs. ",
+    "image": "ryan.jpg"
+  },
+  {
+    "name": "Charlie Kinnune",
+    "school": "Mount Si",
+    "position": "Coach",
+    "blurb": "Opened the season with his 150th career win and ended with the program’s first trip to the Class 4A state tournament since 2013. In his 27th season, Kinnune was also named KingCo 4A Coach of the Year. Kinnune was on the Star Times team as a player in 1980.",
+    "image": "kinnune.jpg"
+  }
+]
