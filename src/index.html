@@ -1,11 +1,12 @@
 <!doctype html>
 <html>
   <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
     <title><%= json.project.title %></title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <%= t.include("partials/_head.html") %>
+    
   </head>
   <body>
 
@@ -67,7 +68,7 @@ studentData = <%= JSON.stringify(json.StarTimesFall2018_stars) %>;
 
     <script src="app.js" async></script>
     <% if (json.project.production) { %>
-    <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
+    <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>
     <%= t.include("partials/_workHere.html") %>
     <% } %>
   </body>
