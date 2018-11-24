@@ -3,7 +3,6 @@ require("./lib/ads");
 // var track = require("./lib/tracking");
 
 require("component-responsive-frame/child");
-require("component-image-slider");
 
 //reasonably simple touch detection
 if ("ontouchstart" in window) {

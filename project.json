@@ -9,7 +9,7 @@
       "path": "/2018/sports/star-times-fall-2018"
     }
   },
-  "title": "Meet the Star Times high school stars: Fall 2018",
+  "title": "Meet the Star Times high-school football stars",
   "description": "Get to know The Seattle Times' fall 2018 selections for its Star Times all-area teams, honoring the best high-school football players in the Seattle area.",
   "url": "https://projects.seattletimes.com/2018/sports/star-times-fall-2018",
   "slug": "star-times-fall-2018",
@@ -17,5 +17,6 @@
   "image": "assets/social.jpg",
   "production": true,
   "embedded": false,
+  "standout": false,
   "sheets": ["1dQQw13tZnHJd_yaINBZrlNRvz_1CjlRMRJM8mYOEtms"]
 }
